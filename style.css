@@ -12,11 +12,6 @@ img {
     width: 100%; /* 親要素（body）の幅に合わせる */
     height: auto; /* 縦横比を維持 */
 }
-.first{
-    margin-top: 40px;
-    margin-bottom: 80px;
-    padding: 24px;
-}
 .section-with-button-fv{
     position: relative; /* 子要素（ボタン）の絶対配置の基準となる */
     width: 100%; /* 親要素（body）の幅に合わせる */
